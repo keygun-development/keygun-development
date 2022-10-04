@@ -14,7 +14,7 @@ export default {
     data() {
         return {
             user: new User({
-                Age: 20,
+                Age: 21,
                 Hobbies: [
                     'Programming',
                     'Playing soccer',
