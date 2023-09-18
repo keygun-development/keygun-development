@@ -6,15 +6,15 @@
 ## 🚀 About Me
 ```javascript
 const aboutMe = {
-    age: 21,
+    age: 22,
     hobbies: [
         'Programming',
         'Playing soccer',
         'Going out with friends',
         'Gaming'
     ],
-    education: 'Software Development',
-    school: 'Graafschap College',
+    education: 'HBO-ICT',
+    school: 'Saxion',
     city: 'Lichtenvoorde, Netherlands',
     currentJob: 'Freave'
 }
