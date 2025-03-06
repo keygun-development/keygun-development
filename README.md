@@ -8,7 +8,7 @@
 ## 🚀 About Me
 ```javascript
 const aboutMe = {
-    age: 22,
+    age: 23,
     hobbies: [
         'Programming',
         'Playing soccer',
@@ -18,7 +18,7 @@ const aboutMe = {
     education: 'HBO-ICT',
     school: 'Saxion',
     city: 'Lichtenvoorde, Netherlands',
-    currentJob: 'Freave'
+    currentJob: 'Flexicode'
 }
 ```
 ## 🔗 Links
