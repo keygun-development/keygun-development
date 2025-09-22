@@ -8,7 +8,7 @@
 ## 🚀 About Me
 ```javascript
 const aboutMe = {
-    age: 23,
+    age: 24,
     hobbies: [
         'Programming',
         'Playing soccer',
